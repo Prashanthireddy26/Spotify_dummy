@@ -1,5 +1,5 @@
 <h1>🎵Spotify Clone Landing Page</h1>
-  <p>A static, responsive front-end clone of Spotify's landing page built using <strong>HTML</strong> and <strong>CSS</strong>.</p>
+<p>A static, responsive front-end clone of Spotify's landing page built using <strong>HTML</strong> and <strong>CSS</strong>.</p>
 
   <h2>📁 Project Structure</h2>
   <pre><code>.
