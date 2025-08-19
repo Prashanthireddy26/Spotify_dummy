@@ -3,7 +3,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    /* font-family:SpotifyMixUI,CircularSp,Helvetica,Arial,sans-serif; */
+    font-family:SpotifyMixUI,CircularSp,Helvetica,Arial,sans-serif;
     font-family: var(--encore-title-font-stack);
     
     
