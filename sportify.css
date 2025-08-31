@@ -14,7 +14,7 @@ nav{
     background-color: black;
     display: flex;
     justify-content: space-around;
-    color: white;
+    color:white;
 }
 nav div{
     width: 150%;
