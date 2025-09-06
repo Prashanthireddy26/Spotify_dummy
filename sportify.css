@@ -10,14 +10,14 @@
 /* navbar starts here  */
 nav{
     border: 2px solid gray;
-    height: 95px;
+    height: 96px;
     background-color: black;
     display: flex;
     justify-content: space-around;
     color:white;
 }
 nav div{
-    width: 150%;
+    width: 151%;
     display: flex;
     justify-content: center;
     align-items: center;
