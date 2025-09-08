@@ -3,7 +3,8 @@
 <p>A static, and  Responsive front-end clone of <strong>Spotify</strong>'s landing page built using <strong>HTML</strong> and <strong>CSS</strong>.</p>
 
   <h2>📁 Project Structure</h2>
-  <pre><code>.
+  <pre><code>
+    <br>
 ├── index.html           # Main HTML file
 ├── spotify.css         # Custom CSS file
 ├── assert/              # Folder containing images and icons
