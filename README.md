@@ -45,7 +45,8 @@
     <li>Ensure the <code>assert/</code> folder is present so all images load properly.</li>
   </ol>
 
-  <h2>💡 Features</h2>
+
+  <h1>💡 Features</h1>
   <ul>
     <li>Hero section with call to action</li>
     <li>Informational sections about Spotify</li>
