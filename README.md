@@ -4,13 +4,11 @@
 
   <h2>📁 Project Structure</h2>
   <pre><code>
-    <br>
 ├── index.html           # Main HTML file
 ├── spotify.css         # Custom CSS file
 ├── assert/              # Folder containing images and icons
 </code></pre>
 
- 
   <h2>🔧 Technologies Used</h2>
   <ul>
     <li>HTML5</li>
