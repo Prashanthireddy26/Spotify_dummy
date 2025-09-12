@@ -11,10 +11,10 @@
 
   <h2>🔧 Technologies Used</h2>
   <ul>
-    <li>HTML5</li>
+<!--     <li>HTML5</li>
     <li>CSS3</li>
     <li>Font Awesome</li>
-    <li>Boxicons</li>
+    <li>Boxicons</li> -->
   </ul>
 
   <h2>📸 Preview</h2>
