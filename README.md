@@ -4,10 +4,13 @@
 
   <h2>📁 Project Structure</h2>
   <pre><code>
+    
 ├── index.html           # Main HTML file
 ├── spotify.css         # Custom CSS file
 ├── assert/              # Folder containing images and icons
 </code></pre>
+
+
   <h2>🔧 Technologies Used</h2>
   <ul>
     <li>HTML5</li>
@@ -16,6 +19,7 @@
     <li>Boxicons</li>
   </ul>
 
+  
   <h2>📸 Preview</h2>
 
   ![Screenshot 2025-07-04 110123](https://github.com/user-attachments/assets/3c87d84f-c760-48bd-9118-ace369c2ccac)
