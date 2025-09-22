@@ -7,7 +7,6 @@
     font-family: var(--encore-title-font-stack);
 }
 /* ** navbar start's here **  */
-
 nav{
     border: 2px solid gray;
     height: 96px;
